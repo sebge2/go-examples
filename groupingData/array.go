@@ -1,0 +1,5 @@
+package groupingData
+
+func ArrayExample() {
+
+}
